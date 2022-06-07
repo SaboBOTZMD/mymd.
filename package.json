@@ -1,5 +1,5 @@
 {
-    "name": "mymd",
+    "name": "Sabo-MD",
     "version": "0.0.6",
     "description": "WhatsApp Bot Ringan, Yang Berat Dosamuツ",
     "depecrated": false,
@@ -25,7 +25,7 @@
     ],
     "homepage": "https://github.com/raselcomel/mymd",
     "author": {
-        "name": "@rasel.ganz"
+        "name": "@dzyyours
     },
     "repository": {
         "type": "git",
